@@ -1,0 +1,6 @@
+D:\CS\CS280-Homework-1.2\CS280-Homework-1.2\bin\Debug\CS280-Homework-1.2.exe.config
+D:\CS\CS280-Homework-1.2\CS280-Homework-1.2\bin\Debug\CS280-Homework-1.2.exe
+D:\CS\CS280-Homework-1.2\CS280-Homework-1.2\bin\Debug\CS280-Homework-1.2.pdb
+D:\CS\CS280-Homework-1.2\CS280-Homework-1.2\obj\Debug\CS280-Homework-1.2.csprojResolveAssemblyReference.cache
+D:\CS\CS280-Homework-1.2\CS280-Homework-1.2\obj\Debug\CS280-Homework-1.2.exe
+D:\CS\CS280-Homework-1.2\CS280-Homework-1.2\obj\Debug\CS280-Homework-1.2.pdb
